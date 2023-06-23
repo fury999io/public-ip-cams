@@ -44,6 +44,14 @@
 * http://207.194.15.97/mjpg/video.mjpg
 * https://129.2.146.15/#view
 * https://129.2.146.15/jpg/image.jpg
+* http://86.62.184.186:8788/mjpg/1/video.mjpg
+* http://37.128.212.84/mjpg/video.mjpg
+* http://194.103.218.15/mjpg/video.mjpg
+* http://62.238.67.246:8082/mjpg/1/video.mjpg
+* http://62.214.4.38/mjpg/video.mjpg
+* http://199.104.253.4/mjpg/video.mjpg
+* http://78.186.26.188/mjpg/1/video.mjpg
+* http://hikosan.aa0.netvolante.jp:1230/mjpg/video.mjpg
 * http://casamellow.dyndns.org/mjpg/video.mjpg
 * http://hoybakken.dyndns.org:9876/mjpg/video.mjpg
 * https://webcam.caucedo.com:15080/mjpg/1/video.mjpg
@@ -61,3 +69,8 @@
 * http://www.groto.dy.fi/mjpg/video.mjpg
 * https://romecam.mvcc.edu/mjpg/video.mjpg?timestamp=1687505435116
 * http://webcam.town.karuizawa.nagano.jp/krcam07/mjpg/1/video.mjpg
+* http://mbr-cam.dyndns.org:8088/mjpg/video.mjpg
+* http://webcam.town.karuizawa.nagano.jp/krcam02/mjpg/video.mjpg
+* http://skolten.net:8080/mjpg/video.mjpg
+* https://webcam.privcom.ch/mjpg/video.mjpg
+* http://hikosan.aa0.netvolante.jp:1250/mjpg/video.mjpg
