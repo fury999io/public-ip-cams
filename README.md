@@ -40,6 +40,7 @@
 * http://61.211.241.239/nphMotionJpeg?Resolution=640x480
 * http://50.231.121.221/axis-cgi/mjpg/video.cgi
 * http://70.63.123.20/mjpg/1/video.mjpg
+* http://212.170.100.189/mjpg/video.mjpg
 * http://83.128.165.80/mjpg/video.mjpg
 * http://207.194.15.97/mjpg/video.mjpg
 * https://129.2.146.15/#view
