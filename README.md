@@ -42,6 +42,7 @@
 * http://70.63.123.20/mjpg/1/video.mjpg
 * http://83.128.165.80/mjpg/video.mjpg
 * http://207.194.15.97/mjpg/video.mjpg
+* https://129.2.146.15/#view
 * http://casamellow.dyndns.org/mjpg/video.mjpg
 * http://hoybakken.dyndns.org:9876/mjpg/video.mjpg
 * https://webcam.caucedo.com:15080/mjpg/1/video.mjpg
@@ -59,4 +60,3 @@
 * http://www.groto.dy.fi/mjpg/video.mjpg
 * https://romecam.mvcc.edu/mjpg/video.mjpg?timestamp=1687505435116
 * http://webcam.town.karuizawa.nagano.jp/krcam07/mjpg/1/video.mjpg
-* https://129.2.146.15/#view
