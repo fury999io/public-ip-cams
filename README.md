@@ -18,9 +18,9 @@
 * http://176.128.62.142:3000/mjpg/video.mjpg
 * http://89.106.109.144:12060/mjpg/video.mjpg
 * http://213.47.219.147:89/mjpg/video.mjpg
-* http://178.239.225.102/mjpg/video.mjpg?compression=50
+* http://178.239.225.102/mjpg/video.mjpg
 * http://96.56.250.139:8200/mjpg/video.mjpg
-* http://119.2.50.116:89/mjpg/video.mjpg?COUNTER
+* http://119.2.50.116:89/mjpg/video.mjpg
 * http://casamellow.dyndns.org/mjpg/video.mjpg
 * http://hoybakken.dyndns.org:9876/mjpg/video.mjpg
 * https://webcam.caucedo.com:15080/mjpg/1/video.mjpg
