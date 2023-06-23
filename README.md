@@ -9,12 +9,12 @@
 * http://72.17.65.138/mjpg/video.mjpg
 * http://63.142.190.238:6106/mjpg/video.mjpg
 * http://77.37.212.198:559/mjpg/video.mjpg
-* http://50.236.229.38:8080/mjpg/video.mjpg?timestamp=1615986367928
+* http://50.236.229.38:8080/mjpg/video.mjpg
 * http://63.142.190.238:6120/mjpg/video.mjpg
-* http://81.149.2.82:8092/mjpg/video.mjpg?streamprofile=MJPG_720&dummy=1683158400025
+* http://81.149.2.82:8092/mjpg/video.mjpg?streamprofile=MJPG_720
 * http://217.33.17.229/mjpg/video.mjpg
 * http://159.130.70.206/mjpg/video.mjpg
-* http://67.53.46.161:65123/mjpg/video.mjpg?camera=1&timestamp=1562376536164
+* http://67.53.46.161:65123/mjpg/video.mjpg
 * http://176.128.62.142:3000/mjpg/video.mjpg
 * http://89.106.109.144:12060/mjpg/video.mjpg
 * http://213.47.219.147:89/mjpg/video.mjpg
@@ -23,6 +23,6 @@
 * http://119.2.50.116:89/mjpg/video.mjpg?COUNTER
 * http://casamellow.dyndns.org/mjpg/video.mjpg
 * http://hoybakken.dyndns.org:9876/mjpg/video.mjpg
-* https://webcam.caucedo.com:15080/mjpg/1/video.mjpg?timestamp=1478617079142
+* https://webcam.caucedo.com:15080/mjpg/1/video.mjpg
 * https://webcam1.lpl.org/mjpg/video.mjpg
 * https://gbpvcam01.taferresorts.com/mjpg/video.mjpg
