@@ -38,6 +38,10 @@
 * http://185.133.99.214:8011/mjpg/video.mjpg
 * https://82.198.200.23/mjpg/video.mjpg
 * http://61.211.241.239/nphMotionJpeg?Resolution=640x480
+* http://50.231.121.221/axis-cgi/mjpg/video.cgi
+* http://70.63.123.20/mjpg/1/video.mjpg
+* http://83.128.165.80/mjpg/video.mjpg
+* http://207.194.15.97/mjpg/video.mjpg
 * http://casamellow.dyndns.org/mjpg/video.mjpg
 * http://hoybakken.dyndns.org:9876/mjpg/video.mjpg
 * https://webcam.caucedo.com:15080/mjpg/1/video.mjpg
@@ -49,3 +53,10 @@
 * http://webkamera.overtornea.se/mjpg/video.mjpg
 * http://do0lee.homeunix.com:82/mjpg/video.mjpg
 * http://mmb.aa1.netvolante.jp:1025/mjpg/video.mjpg?resolution=640x360
+* http://seegler.homeip.net:8888/mjpg/video.mjpg
+* http://marina.art-net.co.il:120/mjpg/video.mjpg
+* http://skycam.sebewainggigvillage.com/mjpg/video.mjpg
+* http://www.groto.dy.fi/mjpg/video.mjpg
+* https://romecam.mvcc.edu/mjpg/video.mjpg?timestamp=1687505435116
+* http://webcam.town.karuizawa.nagano.jp/krcam07/mjpg/1/video.mjpg
+* https://129.2.146.15/#view
