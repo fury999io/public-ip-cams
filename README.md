@@ -47,11 +47,16 @@
 * https://129.2.146.15/jpg/image.jpg
 * http://86.62.184.186:8788/mjpg/1/video.mjpg
 * http://37.128.212.84/mjpg/video.mjpg
+* http://47.206.111.174/mjpg/video.mjpg
 * http://194.103.218.15/mjpg/video.mjpg
 * http://62.238.67.246:8082/mjpg/1/video.mjpg
 * http://62.214.4.38/mjpg/video.mjpg
 * http://199.104.253.4/mjpg/video.mjpg
 * http://78.186.26.188/mjpg/1/video.mjpg
+* http://185.49.169.66:1024/control/faststream.jpg?stream=full&fps=16
+* http://213.135.11.51/control/faststream.jpg?stream=full&fps=4
+* http://194.164.144.234/control/faststream.jpg?stream=full&fps=16
+* http://25e384n5t3g4njrs.myfritz.net:9080/control/faststream.jpg?stream=full&fps=16
 * http://hikosan.aa0.netvolante.jp:1230/mjpg/video.mjpg
 * http://casamellow.dyndns.org/mjpg/video.mjpg
 * http://hoybakken.dyndns.org:9876/mjpg/video.mjpg
@@ -74,4 +79,5 @@
 * http://webcam.town.karuizawa.nagano.jp/krcam02/mjpg/video.mjpg
 * http://skolten.net:8080/mjpg/video.mjpg
 * https://webcam.privcom.ch/mjpg/video.mjpg
+* http://myrafjell.sodvin.no/mjpg/video.mjpg
 * http://hikosan.aa0.netvolante.jp:1250/mjpg/video.mjpg
