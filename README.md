@@ -43,6 +43,7 @@
 * http://83.128.165.80/mjpg/video.mjpg
 * http://207.194.15.97/mjpg/video.mjpg
 * https://129.2.146.15/#view
+* https://129.2.146.15/jpg/image.jpg
 * http://casamellow.dyndns.org/mjpg/video.mjpg
 * http://hoybakken.dyndns.org:9876/mjpg/video.mjpg
 * https://webcam.caucedo.com:15080/mjpg/1/video.mjpg
