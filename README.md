@@ -37,6 +37,7 @@
 * http://213.3.30.80:6001/mjpg/video.mjpg
 * http://185.133.99.214:8011/mjpg/video.mjpg
 * https://82.198.200.23/mjpg/video.mjpg
+* http://61.211.241.239/nphMotionJpeg?Resolution=640x480
 * http://casamellow.dyndns.org/mjpg/video.mjpg
 * http://hoybakken.dyndns.org:9876/mjpg/video.mjpg
 * https://webcam.caucedo.com:15080/mjpg/1/video.mjpg
