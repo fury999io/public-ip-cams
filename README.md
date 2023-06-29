@@ -56,6 +56,10 @@
 * http://185.49.169.66:1024/control/faststream.jpg?stream=full&fps=16
 * http://213.135.11.51/control/faststream.jpg?stream=full&fps=4
 * http://194.164.144.234/control/faststream.jpg?stream=full&fps=16
+* http://92.245.4.53/mjpg/video.mjpg
+* http://81.167.114.67:84/mjpg/video.mjpg
+* http://82.134.72.194/mjpg/video.mjpg
+* http://46.14.58.189/mjpg/video.mjpg
 * http://25e384n5t3g4njrs.myfritz.net:9080/control/faststream.jpg?stream=full&fps=16
 * http://hikosan.aa0.netvolante.jp:1230/mjpg/video.mjpg
 * http://casamellow.dyndns.org/mjpg/video.mjpg
@@ -81,3 +85,7 @@
 * https://webcam.privcom.ch/mjpg/video.mjpg
 * http://myrafjell.sodvin.no/mjpg/video.mjpg
 * http://hikosan.aa0.netvolante.jp:1250/mjpg/video.mjpg
+* http://mmb.aa1.netvolante.jp:1025/mjpg/video.mjpg?resolution=640x360&compression=50
+* https://webcam.schwaebischhall.de/mjpg/video.mjpg
+* http://e1480d3b88f7.sn.mynetname.net:91/mjpg/video.mjpg
+* https://hotellbakken.gaustablikk.no/mjpg/video.mjpg
