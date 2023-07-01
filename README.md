@@ -3,6 +3,7 @@
 
 * http://204.106.237.68:88/mjpg/1/video.mjpg
 * http://83.136.176.101:10013/mjpg/video.mjpg
+* http://24.155.92.234:50088/nphMotionJpeg?Resolution=640x480
 * http://89.162.116.155:203/mjpg/video.mjpg
 * http://212.67.231.233/mjpg/video.mjpg
 * http://63.142.190.238:6106/mjpg/video.mjpg
