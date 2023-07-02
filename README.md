@@ -4,6 +4,7 @@
 * http://204.106.237.68:88/mjpg/1/video.mjpg
 * http://83.136.176.101:10013/mjpg/video.mjpg
 * http://24.155.92.234:50088/nphMotionJpeg?Resolution=640x480
+* http://153.156.82.99/nphMotionJpeg
 * http://89.162.116.155:203/mjpg/video.mjpg
 * http://212.67.231.233/mjpg/video.mjpg
 * http://63.142.190.238:6106/mjpg/video.mjpg
@@ -61,6 +62,10 @@
 * http://81.167.114.67:84/mjpg/video.mjpg
 * http://82.134.72.194/mjpg/video.mjpg
 * http://46.14.58.189/mjpg/video.mjpg
+* http://takemotopiano.aa1.netvolante.jp:8102/nphMotionJpeg
+* http://takemotopiano.aa1.netvolante.jp:8104/nphMotionJpeg
+* http://iyashi-webcam.st.wakwak.ne.jp/nphMotionJpeg?Resolution=320x240&Quality=Standard
+* http://cam6284208.miemasu.net/nphMotionJpeg
 * http://25e384n5t3g4njrs.myfritz.net:9080/control/faststream.jpg?stream=full&fps=16
 * http://hikosan.aa0.netvolante.jp:1230/mjpg/video.mjpg
 * http://casamellow.dyndns.org/mjpg/video.mjpg
