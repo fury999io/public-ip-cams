@@ -105,3 +105,4 @@
 * https://webcam.schwaebischhall.de/mjpg/video.mjpg
 * http://e1480d3b88f7.sn.mynetname.net:91/mjpg/video.mjpg
 * https://hotellbakken.gaustablikk.no/mjpg/video.mjpg
+* http://8xvsooocqu70mv3z.myfritz.net:88/
