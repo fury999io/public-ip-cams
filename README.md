@@ -70,6 +70,8 @@
 * http://82.134.72.194/mjpg/video.mjpg
 * http://46.14.58.189/mjpg/video.mjpg
 * http://velospeer.spdns.org/mjpg/video.mjpg
+* http://camera6.buffalotrace.com/mjpg/video.mjpg
+* http://pendelcam.kip.uni-heidelberg.de/mjpg/video.mjpg
 * http://takemotopiano.aa1.netvolante.jp:8102/nphMotionJpeg
 * http://takemotopiano.aa1.netvolante.jp:8104/nphMotionJpeg
 * http://iyashi-webcam.st.wakwak.ne.jp/nphMotionJpeg?Resolution=320x240&Quality=Standard
