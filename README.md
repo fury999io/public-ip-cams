@@ -7,6 +7,11 @@
 * http://24.155.92.234:50088/nphMotionJpeg?Resolution=640x480
 * http://2.139.181.21:81/mjpg/video.mjpg
 * http://153.156.82.99/nphMotionJpeg
+* http://212.41.248.38/cgi-bin/hugesize.jpg?camera=4&motion=0
+* http://212.41.248.38/cgi-bin/hugesize.jpg?camera=1&motion=0
+* http://212.41.248.38/cgi-bin/hugesize.jpg?camera=3&motion=0
+* http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=2&motion=0
+* http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=3&motion=0
 * http://89.162.116.155:203/mjpg/video.mjpg
 * http://212.67.231.233/mjpg/video.mjpg
 * http://63.142.190.238:6106/mjpg/video.mjpg
