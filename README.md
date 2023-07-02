@@ -2,8 +2,10 @@
 ## All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.
 
 * http://204.106.237.68:88/mjpg/1/video.mjpg
+* http://96.91.10.219/mjpg/1/video.mjpg
 * http://83.136.176.101:10013/mjpg/video.mjpg
 * http://24.155.92.234:50088/nphMotionJpeg?Resolution=640x480
+* http://2.139.181.21:81/mjpg/video.mjpg
 * http://153.156.82.99/nphMotionJpeg
 * http://89.162.116.155:203/mjpg/video.mjpg
 * http://212.67.231.233/mjpg/video.mjpg
@@ -62,6 +64,7 @@
 * http://81.167.114.67:84/mjpg/video.mjpg
 * http://82.134.72.194/mjpg/video.mjpg
 * http://46.14.58.189/mjpg/video.mjpg
+* http://velospeer.spdns.org/mjpg/video.mjpg
 * http://takemotopiano.aa1.netvolante.jp:8102/nphMotionJpeg
 * http://takemotopiano.aa1.netvolante.jp:8104/nphMotionJpeg
 * http://iyashi-webcam.st.wakwak.ne.jp/nphMotionJpeg?Resolution=320x240&Quality=Standard
