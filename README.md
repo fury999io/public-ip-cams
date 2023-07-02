@@ -1,6 +1,7 @@
 # public-ip-cams
 ## All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.
 
+* http://195.196.36.242/mjpg/video.mjpg
 * http://204.106.237.68:88/mjpg/1/video.mjpg
 * http://96.91.10.219/mjpg/1/video.mjpg
 * http://83.136.176.101:10013/mjpg/video.mjpg
@@ -69,6 +70,11 @@
 * http://81.167.114.67:84/mjpg/video.mjpg
 * http://82.134.72.194/mjpg/video.mjpg
 * http://46.14.58.189/mjpg/video.mjpg
+* http://vetter.viewnetcam.com:50000/nphMotionJpeg?Resolution=640x480&Quality=Clarity
+* http://tamperehacklab.tunk.org:38001/nphMotionJpeg?Resolution=640x480&Quality=Clarity
+* http://clausenrc5.viewnetcam.com:50003/nphMotionJpeg?Resolution=320x240
+* http://honjin1.miemasu.net/nphMotionJpeg
+* http://camera.buffalotrace.com/mjpg/video.mjpg
 * http://velospeer.spdns.org/mjpg/video.mjpg
 * http://camera6.buffalotrace.com/mjpg/video.mjpg
 * http://pendelcam.kip.uni-heidelberg.de/mjpg/video.mjpg
