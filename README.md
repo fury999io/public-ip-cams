@@ -1,18 +1,13 @@
 # public-ip-cams
 ## All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.
 
-* http://195.196.36.242/mjpg/video.mjpg
+* http://213.236.250.78/mjpg/video.mjpg
 * http://204.106.237.68:88/mjpg/1/video.mjpg
 * http://96.91.10.219/mjpg/1/video.mjpg
 * http://83.136.176.101:10013/mjpg/video.mjpg
 * http://24.155.92.234:50088/nphMotionJpeg?Resolution=640x480
 * http://2.139.181.21:81/mjpg/video.mjpg
 * http://153.156.82.99/nphMotionJpeg
-* http://212.41.248.38/cgi-bin/hugesize.jpg?camera=4&motion=0
-* http://212.41.248.38/cgi-bin/hugesize.jpg?camera=1&motion=0
-* http://212.41.248.38/cgi-bin/hugesize.jpg?camera=3&motion=0
-* http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=2&motion=0
-* http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=3&motion=0
 * http://89.162.116.155:203/mjpg/video.mjpg
 * http://212.67.231.233/mjpg/video.mjpg
 * http://63.142.190.238:6106/mjpg/video.mjpg
@@ -70,6 +65,12 @@
 * http://81.167.114.67:84/mjpg/video.mjpg
 * http://82.134.72.194/mjpg/video.mjpg
 * http://46.14.58.189/mjpg/video.mjpg
+* http://212.41.248.38/cgi-bin/hugesize.jpg?camera=4&motion=0
+* http://212.41.248.38/cgi-bin/hugesize.jpg?camera=1&motion=0
+* http://212.41.248.38/cgi-bin/hugesize.jpg?camera=3&motion=0
+* http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=2&motion=0
+* http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=3&motion=0
+* http://195.196.36.242/mjpg/video.mjpg
 * https://csea-me-webcam.cse.umn.edu/mjpg/video.mjpg
 * http://vetter.viewnetcam.com:50000/nphMotionJpeg?Resolution=640x480&Quality=Clarity
 * http://tamperehacklab.tunk.org:38001/nphMotionJpeg?Resolution=640x480&Quality=Clarity
