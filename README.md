@@ -70,6 +70,7 @@
 * http://81.167.114.67:84/mjpg/video.mjpg
 * http://82.134.72.194/mjpg/video.mjpg
 * http://46.14.58.189/mjpg/video.mjpg
+* https://csea-me-webcam.cse.umn.edu/mjpg/video.mjpg
 * http://vetter.viewnetcam.com:50000/nphMotionJpeg?Resolution=640x480&Quality=Clarity
 * http://tamperehacklab.tunk.org:38001/nphMotionJpeg?Resolution=640x480&Quality=Clarity
 * http://clausenrc5.viewnetcam.com:50003/nphMotionJpeg?Resolution=320x240
