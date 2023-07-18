@@ -1,6 +1,7 @@
 # public-ip-cams
 ## All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.
 
+* http://199.188.177.5:53020/mjpg/video.mjpg
 * http://213.236.250.78/mjpg/video.mjpg
 * http://204.106.237.68:88/mjpg/1/video.mjpg
 * http://96.91.10.219/mjpg/1/video.mjpg
