@@ -72,6 +72,7 @@
 * http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=2&motion=0
 * http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=3&motion=0
 * http://195.196.36.242/mjpg/video.mjpg
+* http://kamera.mikulov.cz:8888/mjpg/video.mjpg
 * https://csea-me-webcam.cse.umn.edu/mjpg/video.mjpg
 * http://vetter.viewnetcam.com:50000/nphMotionJpeg?Resolution=640x480&Quality=Clarity
 * http://tamperehacklab.tunk.org:38001/nphMotionJpeg?Resolution=640x480&Quality=Clarity
