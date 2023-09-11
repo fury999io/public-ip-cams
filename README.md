@@ -2,7 +2,7 @@
 ## All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.
 
 * http://109.233.191.228:8090
-* 195.222.51.206:81/mjpg/video.mjpg
+* http://195.222.51.206:81/mjpg/video.mjpg
 * http://118.21.146.177:7001/viewer/live/index.html
 * http://68.116.33.170:4003/mjpg/video.mjpg
 * http://199.188.177.5:53020/mjpg/video.mjpg
