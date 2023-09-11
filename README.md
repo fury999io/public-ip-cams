@@ -1,6 +1,10 @@
 # public-ip-cams
 ## All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.
 
+* http://109.233.191.228:8090
+* 195.222.51.206:81/mjpg/video.mjpg
+* http://118.21.146.177:7001/viewer/live/index.html
+* http://68.116.33.170:4003/mjpg/video.mjpg
 * http://199.188.177.5:53020/mjpg/video.mjpg
 * http://213.236.250.78/mjpg/video.mjpg
 * http://204.106.237.68:88/mjpg/1/video.mjpg
@@ -72,6 +76,8 @@
 * http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=2&motion=0
 * http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=3&motion=0
 * http://195.196.36.242/mjpg/video.mjpg
+* http://202.174.60.121/-wvhttp-01-/image.cgi
+* http://camera6.city.satsumasendai.lg.jp/-wvhttp-01-/image.cgi
 * http://kamera.mikulov.cz:8888/mjpg/video.mjpg
 * https://csea-me-webcam.cse.umn.edu/mjpg/video.mjpg
 * http://vetter.viewnetcam.com:50000/nphMotionJpeg?Resolution=640x480&Quality=Clarity
@@ -115,4 +121,7 @@
 * https://webcam.schwaebischhall.de/mjpg/video.mjpg
 * http://e1480d3b88f7.sn.mynetname.net:91/mjpg/video.mjpg
 * https://hotellbakken.gaustablikk.no/mjpg/video.mjpg
-* http://8xvsooocqu70mv3z.myfritz.net:88/
+* http://8xvsooocqu70mv3z.myfritz.net:88
+* http://flightcam1.pr.erau.edu/view/view.shtml
+* http://flightcam2.pr.erau.edu/view/view.shtml
+* http://flightcam3.pr.erau.edu/view/view.shtml
