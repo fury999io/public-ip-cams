@@ -1,6 +1,7 @@
 # public-ip-cams
 ## All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.
 
+* http://77.222.181.11:8080/mjpg/video.mjpg
 * http://109.233.191.228:8090
 * http://195.222.51.206:81/mjpg/video.mjpg
 * http://118.21.146.177:7001/viewer/live/index.html
@@ -77,6 +78,7 @@
 * http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=3&motion=0
 * http://195.196.36.242/mjpg/video.mjpg
 * http://202.174.60.121/-wvhttp-01-/image.cgi
+* http://htadmcam01.larimer.org/mjpg/video.mjpg
 * http://camera6.city.satsumasendai.lg.jp/-wvhttp-01-/image.cgi
 * http://kamera.mikulov.cz:8888/mjpg/video.mjpg
 * https://csea-me-webcam.cse.umn.edu/mjpg/video.mjpg
