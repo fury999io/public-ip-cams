@@ -1,6 +1,29 @@
 # public-ip-cams
-## All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.
+**All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.**
 
+* http://109.236.111.203/view/viewer_index.shtml?id=87296
+* http://87.139.9.247/#view
+* http://166.247.77.253:81/#view
+* http://221.189.0.181/cgi-bin/guestimage.html
+* http://87.138.157.245/cgi-bin/guestimage.html
+* http://191.241.235.43/view/viewer_index.shtml?id=3640
+* http://161.72.22.244/view/view.shtml?id=8828&imagepath=%2Fmjpg%2Fvideo.mjpg&size=1
+* http://191.241.235.43/view/viewer_index.shtml?id=3640
+* http://50.197.223.169/#view
+* http://85.220.149.7/cgi-bin/guestimage.html
+* http://97.68.104.34/aca/index.html#view
+* http://62.131.207.209:8080/
+* http://84.232.147.36:8080/cgi-bin/guestimage.html
+* http://91.192.168.58:8080/view/viewer_index.shtml?id=5146
+* http://37.156.71.253/cgi-bin/guestimage.html
+* http://79.8.83.39/en/index.html
+* http://185.18.130.194:8001/view/view.shtml?id=1772&imagepath=%2Fmjpg%2F1%2Fvideo.mjpg&size=1
+* http://185.97.122.128/cgi-bin/guestimage.html
+* http://217.24.53.18/cgi-bin/guestimage.html
+* http://80.32.125.254:8080/cgi-bin/guestimage.html
+* http://114.179.205.142/live/index.html?Language=1
+* http://202.245.13.81/live/index.html?Language=0
+* http://50.197.223.170/#view
 * http://77.222.181.11:8080/mjpg/video.mjpg
 * http://109.233.191.228:8090
 * http://195.222.51.206:81/mjpg/video.mjpg
