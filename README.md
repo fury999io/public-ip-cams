@@ -119,7 +119,7 @@
 * http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=3&motion=0
 * http://195.196.36.242/mjpg/video.mjpg
 * http://202.174.60.121/-wvhttp-01-/image.cgi
-<br>
+# 
 * http://webcam.agf-bw.info:8092/mjpg/video.mjpg
 * http://camera.sissiboo.com:86/mjpg/video.mjpg
 * http://camera.dyndns-pics.com:8090/mjpg/video.mjpg
