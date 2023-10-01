@@ -101,6 +101,8 @@
 * http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=3&motion=0
 * http://195.196.36.242/mjpg/video.mjpg
 * http://202.174.60.121/-wvhttp-01-/image.cgi
+* http://koupaliste.velkeopatovice.cz/mjpg/video.mjpg
+* http://webcam.zvnoordwijk.nl:82/mjpg/video.mjpg
 * http://htadmcam01.larimer.org/mjpg/video.mjpg
 * http://camera6.city.satsumasendai.lg.jp/-wvhttp-01-/image.cgi
 * http://kamera.mikulov.cz:8888/mjpg/video.mjpg
