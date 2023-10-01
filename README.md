@@ -1,6 +1,24 @@
 # public-ip-cams
 **All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.**
 
+* http://220.233.144.165:8888/mjpg/video.mjpg
+* http://87.224.70.147:1884/mjpg/video.mjpg
+* http://80.13.46.193:2503/mjpg/video.mjpg
+* http://176.35.166.49/mjpg/video.mjpg
+* http://178.174.58.91/mjpg/video.mjpg
+* http://95.161.27.60/mjpg/video.mjpg
+* http://96.83.150.209/mjpg/video.mjpg
+* http://212.6.91.123/mjpg/video.mjpg
+* http://193.90.139.222:33445/mjpg/video.mjpg
+* http://213.128.169.233:1112/mjpg/video.mjpg
+* http://85.93.233.159:8080/mjpg/video.mjpg
+* http://89.162.14.87/mjpg/video.mjpg
+* http://104.207.27.126:8080/mjpg/video.mjpg
+* http://70.89.165.178/mjpg/video.mjpg
+* http://80.13.189.135/mjpg/video.mjpg
+* http://188.113.160.155:44012/mjpg/video.mjpg
+* http://77.110.203.114:82/mjpg/video.mjpg
+* http://93.48.88.159/mjpg/video.mjpg
 * http://109.236.111.203/view/viewer_index.shtml?id=87296
 * http://87.139.9.247/#view
 * http://166.247.77.253:81/#view
@@ -101,6 +119,14 @@
 * http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=3&motion=0
 * http://195.196.36.242/mjpg/video.mjpg
 * http://202.174.60.121/-wvhttp-01-/image.cgi
+
+* http://webcam.agf-bw.info:8092/mjpg/video.mjpg
+* http://camera.sissiboo.com:86/mjpg/video.mjpg
+* http://camera.dyndns-pics.com:8090/mjpg/video.mjpg
+* http://captainsbounty.dnsalias.com/mjpg/video.mjpg?timestamp=1515949911873
+* http://webcam.teuva.fi/mjpg/video.mjpg?webcam.jpg
+* http://skolten.info:8080/mjpg/video.mjpg
+* https://storatorg.halmstad.se/mjpg/video.mjpg
 * http://koupaliste.velkeopatovice.cz/mjpg/video.mjpg
 * http://webcam.zvnoordwijk.nl:82/mjpg/video.mjpg
 * http://htadmcam01.larimer.org/mjpg/video.mjpg
