@@ -19,7 +19,7 @@
 * http://188.113.160.155:44012/mjpg/video.mjpg
 * http://77.110.203.114:82/mjpg/video.mjpg
 * http://93.48.88.159/mjpg/video.mjpg
-* http://109.236.111.203/view/viewer_index.shtml?id=87296
+* http://109.236.111.203/mjpg/video.mjpg
 * http://87.139.9.247/#view
 * http://166.247.77.253:81/#view
 * http://221.189.0.181/cgi-bin/guestimage.html
@@ -123,7 +123,7 @@
 * http://webcam.agf-bw.info:8092/mjpg/video.mjpg
 * http://camera.sissiboo.com:86/mjpg/video.mjpg
 * http://camera.dyndns-pics.com:8090/mjpg/video.mjpg
-* http://captainsbounty.dnsalias.com/mjpg/video.mjpg?timestamp=1515949911873
+* http://captainsbounty.dnsalias.com/mjpg/video.mjpg
 * http://webcam.teuva.fi/mjpg/video.mjpg?webcam.jpg
 * http://skolten.info:8080/mjpg/video.mjpg
 * https://storatorg.halmstad.se/mjpg/video.mjpg
