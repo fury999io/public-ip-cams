@@ -25,7 +25,7 @@
 * http://221.189.0.181/cgi-bin/guestimage.html
 * http://87.138.157.245/cgi-bin/guestimage.html
 * http://191.241.235.43/view/viewer_index.shtml?id=3640
-* http://161.72.22.244/view/view.shtml?id=8828&imagepath=%2Fmjpg%2Fvideo.mjpg&size=1
+* http://161.72.22.244/mjpg/video.mjpg
 * http://191.241.235.43/view/viewer_index.shtml?id=3640
 * http://50.197.223.169/#view
 * http://85.220.149.7/cgi-bin/guestimage.html
