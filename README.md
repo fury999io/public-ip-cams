@@ -35,7 +35,7 @@
 * http://91.192.168.58:8080/view/viewer_index.shtml?id=5146
 * http://37.156.71.253/cgi-bin/guestimage.html
 * http://79.8.83.39/en/index.html
-* http://185.18.130.194:8001/view/view.shtml?id=1772&imagepath=%2Fmjpg%2F1%2Fvideo.mjpg&size=1
+* http://185.18.130.194:8001/mjpg/1/video.mjpg
 * http://185.97.122.128/cgi-bin/guestimage.html
 * http://217.24.53.18/cgi-bin/guestimage.html
 * http://80.32.125.254:8080/cgi-bin/guestimage.html
