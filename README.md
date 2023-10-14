@@ -1,6 +1,26 @@
 # public-ip-cams
 **All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.**
 
+* 78.152.125.150:8200/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://77.242.135.139:8082/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://194.228.12.197/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://148.59.208.105/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://109.205.108.132/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://77.89.48.20:8003/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://remote.port-royan.com/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://213.98.123.127:8050/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://166.149.155.73:7001/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://91.133.105.85:50050/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://96.66.39.30:8090/cgi-bin/guestimage.html
+* http://88.119.22.157/cgi-bin/guestimage.html
+* https://webcamrm.loodswezen.nl/cgi-bin/faststream.jpg?stream=full&fps=25
+* https://webcam.sparkassenplatz.info/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://118.174.196.20:2220/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://153.156.235.87/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://217.24.53.18/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://166.151.98.221:7001/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://80.14.77.21:8087/cgi-bin/guestimage.html
+* http://37.182.240.202:82/cgi-bin/faststream.jpg
 * http://64.28.50.246/mjpg/video.mjpg
 * http://87.101.127.24/mjpg/video.mjpg
 * http://195.32.24.180:1024/mjpg/video.mjpg
@@ -135,6 +155,8 @@
 * http://202.174.60.121/-wvhttp-01-/image.cgi
 # 
 * http://renzo.dyndns.tv/mjpg/video.mjpg
+* plassenburg-blick.iyxdveyshavdrmjx.myfritz.net/cgi-bin/faststream.jpg?stream=full&fps=2
+* 
 * http://towercam04.rep-am.com:8084/mjpg/video.mjpg
 * http://piercam.cofairhope.com/mjpg/video.mjpg
 * https://ipcam-1.byrd.osu.edu/mjpg/video.mjpg
