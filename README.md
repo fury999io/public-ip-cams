@@ -7,14 +7,11 @@
 * http://148.59.208.105/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://109.205.108.132/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://77.89.48.20:8003/cgi-bin/faststream.jpg?stream=full&fps=25
-* http://remote.port-royan.com/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://213.98.123.127:8050/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://166.149.155.73:7001/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://91.133.105.85:50050/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://96.66.39.30:8090/cgi-bin/guestimage.html
 * http://88.119.22.157/cgi-bin/guestimage.html
-* https://webcamrm.loodswezen.nl/cgi-bin/faststream.jpg?stream=full&fps=25
-* https://webcam.sparkassenplatz.info/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://118.174.196.20:2220/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://153.156.235.87/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://217.24.53.18/cgi-bin/faststream.jpg?stream=full&fps=25
@@ -156,7 +153,10 @@
 * http://176.12.133.122/cgi-bin/guestimage.html
 # 
 * http://renzo.dyndns.tv/mjpg/video.mjpg
-* http://plassenburg-blick.iyxdveyshavdrmjx.myfritz.net/cgi-bin/faststream.jpg?stream=full&fps=2
+* http://remote.port-royan.com/cgi-bin/faststream.jpg?stream=full&fps=25
+* https://webcamrm.loodswezen.nl/cgi-bin/faststream.jpg?stream=full&fps=25
+* https://webcam.sparkassenplatz.info/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://plassenburg-blick.iyxdveyshavdrmjx.myfritz.net/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://towercam04.rep-am.com:8084/mjpg/video.mjpg
 * http://piercam.cofairhope.com/mjpg/video.mjpg
 * https://ipcam-1.byrd.osu.edu/mjpg/video.mjpg
