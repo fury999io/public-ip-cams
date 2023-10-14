@@ -1,6 +1,14 @@
 # public-ip-cams
 **All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.**
 
+* http://64.28.50.246/mjpg/video.mjpg
+* http://87.101.127.24/mjpg/video.mjpg
+* http://195.32.24.180:1024/mjpg/video.mjpg
+* http://193.214.75.118/mjpg/video.mjpg
+* http://212.67.236.61/mjpg/video.mjpg
+* http://94.139.68.110/mjpg/video.mjpg
+* http://185.133.99.214:8010/mjpg/video.mjpg
+* http://216.223.107.140/mjpg/video.mjpg
 * http://100.42.92.26/mjpg/video.mjpg
 * http://77.106.164.66/#view
 * http://77.222.181.11:8080/mjpg/video.mjpg
@@ -127,6 +135,8 @@
 * http://202.174.60.121/-wvhttp-01-/image.cgi
 # 
 * http://renzo.dyndns.tv/mjpg/video.mjpg
+* http://towercam04.rep-am.com:8084/mjpg/video.mjpg
+* http://piercam.cofairhope.com/mjpg/video.mjpg
 * https://ipcam-1.byrd.osu.edu/mjpg/video.mjpg
 * http://eyc.synology.me:10001/mjpg/video.mjpg
 * http://lafarge.sarl2e.fr:3100/mjpg/video.mjpg
