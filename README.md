@@ -3,6 +3,11 @@
 
 * http://100.42.92.26/mjpg/video.mjpg
 * http://77.106.164.66/#view
+* http://77.222.181.11:8080/mjpg/video.mjpg
+* http://80.14.201.251:8010/mjpg/video.mjpg
+* http://62.238.67.246:8082/mjpg/1/video.mjpg
+* http://185.80.208.125/#view
+* http://195.196.36.242/#view
 * http://220.233.144.165:8888/mjpg/video.mjpg
 * http://87.224.70.147:1884/mjpg/video.mjpg
 * http://80.13.46.193:2503/mjpg/video.mjpg
