@@ -126,6 +126,7 @@
 * http://195.196.36.242/mjpg/video.mjpg
 * http://202.174.60.121/-wvhttp-01-/image.cgi
 # 
+* http://renzo.dyndns.tv/mjpg/video.mjpg
 * https://ipcam-1.byrd.osu.edu/mjpg/video.mjpg
 * http://eyc.synology.me:10001/mjpg/video.mjpg
 * http://lafarge.sarl2e.fr:3100/mjpg/video.mjpg
