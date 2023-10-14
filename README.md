@@ -1,6 +1,8 @@
 # public-ip-cams
 **All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.**
 
+* http://100.42.92.26/mjpg/video.mjpg
+* http://77.106.164.66/#view
 * http://220.233.144.165:8888/mjpg/video.mjpg
 * http://87.224.70.147:1884/mjpg/video.mjpg
 * http://80.13.46.193:2503/mjpg/video.mjpg
@@ -119,6 +121,9 @@
 * http://195.196.36.242/mjpg/video.mjpg
 * http://202.174.60.121/-wvhttp-01-/image.cgi
 # 
+* https://ipcam-1.byrd.osu.edu/mjpg/video.mjpg
+* http://eyc.synology.me:10001/mjpg/video.mjpg
+* http://lafarge.sarl2e.fr:3100/mjpg/video.mjpg
 * http://webcam.agf-bw.info:8092/mjpg/video.mjpg
 * http://camera.sissiboo.com:86/mjpg/video.mjpg
 * http://camera.dyndns-pics.com:8090/mjpg/video.mjpg
