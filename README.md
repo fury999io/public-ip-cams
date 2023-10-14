@@ -1,7 +1,7 @@
 # public-ip-cams
 **All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.**
 
-* 78.152.125.150:8200/cgi-bin/faststream.jpg?stream=full&fps=25
+* http://78.152.125.150:8200/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://77.242.135.139:8082/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://194.228.12.197/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://148.59.208.105/cgi-bin/faststream.jpg?stream=full&fps=25
@@ -153,10 +153,10 @@
 * http://31.132.43.196:81/cgi-bin/fullsize.jpg?camera=3&motion=0
 * http://195.196.36.242/mjpg/video.mjpg
 * http://202.174.60.121/-wvhttp-01-/image.cgi
+* http://176.12.133.122/cgi-bin/guestimage.html
 # 
 * http://renzo.dyndns.tv/mjpg/video.mjpg
-* plassenburg-blick.iyxdveyshavdrmjx.myfritz.net/cgi-bin/faststream.jpg?stream=full&fps=2
-* 
+* http://plassenburg-blick.iyxdveyshavdrmjx.myfritz.net/cgi-bin/faststream.jpg?stream=full&fps=2
 * http://towercam04.rep-am.com:8084/mjpg/video.mjpg
 * http://piercam.cofairhope.com/mjpg/video.mjpg
 * https://ipcam-1.byrd.osu.edu/mjpg/video.mjpg
