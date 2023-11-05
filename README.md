@@ -1,6 +1,30 @@
-# public-ip-cams
-**All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.**
+<div style="background-color: #110018; padding: 20px; border-radius: 10px;" align="center">
+  <h1 style="color: #ff1515;">Public IP Cams 📷</h1>
 
+  <img src="https://t4.ftcdn.net/jpg/01/89/61/27/360_F_189612789_kUHB8bdEHuL3SwJoC0kMmV62pQ1S7uqh.jpg" alt="cam_footage"><br>
+  <h3 style="color: #00000;">By: <a href="https://github.com/fury999io">fury999</a></h2>
+  <h2 style="color: #ff1515;">DISCLAIMER!</h2>
+  <b>All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.</b>
+</div>
+
+---
+
+
+* http://117.206.86.54:8080/view/view.shtml?id=574&imagepath=%2Fmjpg%2Fvideo.mjpg%3Fcamera%3D1&size=1
+* http://37.156.71.253/cgi-bin/guestimage.html
+* http://115.179.100.76:8080/CgiStart?page=Single&Language=0
+* http://58.94.98.44/CgiStart?page=Single&Language=0 (cute red-panda footage :)
+* http://158.58.130.148/view/viewer_index.shtml?id=701
+* http://209.181.16.167:8082/
+* http://73.253.117.121:1024/view/viewer_index.shtml
+* http://72.253.153.216:81/view/index.shtml
+* http://217.24.53.18/cgi-bin/guestimage.html
+* http://14.160.87.118:82/live/index.html?Language=0
+* http://194.44.38.196:8083/view/viewer_index.shtml?id=493
+* http://210.248.127.20/CgiStart?page=Single&Language=0
+* http://191.241.235.43/view/viewer_index.shtml?id=5460
+* http://221.189.0.181/cgi-bin/guestimage.html
+* http://218.45.173.232:8000/live/index.html?Language=1&ViewMode=pull
 * http://78.152.125.150:8200/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://77.242.135.139:8082/cgi-bin/faststream.jpg?stream=full&fps=25
 * http://194.228.12.197/cgi-bin/faststream.jpg?stream=full&fps=25
@@ -151,7 +175,6 @@
 * http://195.196.36.242/mjpg/video.mjpg
 * http://202.174.60.121/-wvhttp-01-/image.cgi
 * http://176.12.133.122/cgi-bin/guestimage.html
-# 
 * http://renzo.dyndns.tv/mjpg/video.mjpg
 * http://remote.port-royan.com/cgi-bin/faststream.jpg?stream=full&fps=25
 * https://webcamrm.loodswezen.nl/cgi-bin/faststream.jpg?stream=full&fps=25
@@ -220,3 +243,5 @@
 * http://flightcam1.pr.erau.edu/view/view.shtml
 * http://flightcam2.pr.erau.edu/view/view.shtml
 * http://flightcam3.pr.erau.edu/view/view.shtml
+
+<h3 style="color: #00000;">Contributors: <br><a href="https://github.com/fury999io"><img src="https://github.com/fury999io.png" alt="fury" width="40px"></a>   <a href="https://github.com/arindal1"><img src="https://github.com/arindal1.png" alt="fury" width="40px"></h2></a>
