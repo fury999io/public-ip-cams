@@ -4,7 +4,7 @@
   <img src="https://t4.ftcdn.net/jpg/01/89/61/27/360_F_189612789_kUHB8bdEHuL3SwJoC0kMmV62pQ1S7uqh.jpg" alt="cam_footage"><br>
   <h3 style="color: #00000;">By: <a href="https://github.com/fury999io">fury999</a></h2>
   <h2 style="color: #ff1515;">DISCLAIMER!</h2>
-  **All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.**
+  <b>All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.</b>
 </div>
 
 ---
