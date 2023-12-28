@@ -10,7 +10,6 @@
 ---
 
 
-* http://117.206.86.54:8080/view/view.shtml?id=574&imagepath=%2Fmjpg%2Fvideo.mjpg%3Fcamera%3D1&size=1
 * http://37.156.71.253/cgi-bin/guestimage.html
 * http://115.179.100.76:8080/CgiStart?page=Single&Language=0
 * http://58.94.98.44/CgiStart?page=Single&Language=0 (cute red-panda footage :)
