@@ -11,6 +11,7 @@
 
 
 * http://37.156.71.253/cgi-bin/guestimage.html
+* http://117.206.86.54:8080/mjpg/video.mjpg
 * http://115.179.100.76:8080/CgiStart?page=Single&Language=0
 * http://58.94.98.44/CgiStart?page=Single&Language=0 (cute red-panda footage :)
 * http://158.58.130.148/view/viewer_index.shtml?id=701
