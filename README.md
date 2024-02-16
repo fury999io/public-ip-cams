@@ -1,9 +1,6 @@
 <div style="background-color: #110018; padding: 20px; border-radius: 10px;" align="center">
   <h1 style="color: #ff1515;">Public IP Cams 📷</h1>
-<div class="image-container">
   <img src="https://c.tenor.com/wiKfUcLpZQQAAAAd/tenor.gif" alt="Geneva, Switzerland" width="600px">
-  <div class="image-caption">Geneva, Switzerland</div>
-</div>
   <h3 style="color: #00000;">Contributors: <a href="https://github.com/fury999io">fury999</a>, <a href="https://github.com/arindal1">arindal1</a></h2>
   <h2 style="color: #ff1515;">DISCLAIMER!</h2>
   <b>All URLs listed here are solely found via passive techniques including scanning of public domain information, OSINT, Google Dorks. This repository is not meant for any malicious usage. The creator or contributors of this repository takes no responsibility of the contents of the URLs or their usage.</b>
