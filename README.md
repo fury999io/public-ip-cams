@@ -9,6 +9,14 @@
 ---
 
 
+* http://109.247.15.178:6001/mjpg/video.mjpg
+* http://94.30.51.166:50000/mjpg/video.mjpg
+* http://188.113.184.246:47544/mjpg/video.mjpg
+* http://87.54.229.102/mjpg/video.mjpg
+* http://63.142.183.154:6103/mjpg/video.mjpg
+* http://131.95.3.163/mjpg/video.mjpg
+* http://93.48.88.159/mjpg/video.mjpg
+* http://68.116.33.170:4002/mjpg/video.mjpg
 * http://37.156.71.253/cgi-bin/guestimage.html
 * http://117.206.86.54:8080/mjpg/video.mjpg
 * http://115.179.100.76:8080/CgiStart?page=Single&Language=0
@@ -174,6 +182,8 @@
 * http://195.196.36.242/mjpg/video.mjpg
 * http://202.174.60.121/-wvhttp-01-/image.cgi
 * http://176.12.133.122/cgi-bin/guestimage.html
+* http://mittaghorn.mine.nu/mjpg/video.mjpg
+* http://holmen.tplinkdns.com/mjpg/video.mjpg
 * http://renzo.dyndns.tv/mjpg/video.mjpg
 * http://remote.port-royan.com/cgi-bin/faststream.jpg?stream=full&fps=25
 * https://webcamrm.loodswezen.nl/cgi-bin/faststream.jpg?stream=full&fps=25
