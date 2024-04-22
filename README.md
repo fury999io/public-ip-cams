@@ -37,7 +37,12 @@
 * http://162.191.186.59:81/control/userimage.html
 * http://61.115.78.205/control/userimage.html
 * http://194.106.254.98:1080/control/userimage.html
-* 
+* http://185.51.128.133:82/control/userimage.html
+* http://208.77.125.240:81/control/userimage.html
+* http://162.191.169.17:81/control/userimage.html
+* http://63.41.124.38/control/userimage.html
+* http://77.60.226.189:8013/control/userimage.html
+* http://217.112.104.16:9093/control/userimage.html
 * http://204.13.105.114:8082/axis-cgi/mjpg/video.cgi
 * http://83.48.75.113:8320/axis-cgi/mjpg/video.cgi
 * http://77.110.245.165/axis-cgi/mjpg/video.cgi
@@ -288,7 +293,12 @@
 * http://yukijinjya.st.wakwak.ne.jp/control/userimage.html
 * https://camsuior3.npoint.ro/control/userimage.html
 * http://ferienpenthouse34.spdns.de:4601/control/userimage.html
-* 
+* http://hof-verlo.selfhost.bz/control/userimage.html
+* http://panoramabivio.internet-box.ch/control/userimage.html
+* http://amrescam1.homeip.net:88/control/userimage.html
+* https://basissandgrube.homeip.net/CAM1/control/userimage.html
+* http://adlerschanze.selfhost.eu/control/userimage.html
+* http://fishfactory.ddns.net/control/userimage.html
 * https://csea-me-webcam.cse.umn.edu/mjpg/video.mjpg
 * http://vetter.viewnetcam.com:50000/nphMotionJpeg?Resolution=640x480&Quality=Clarity
 * http://tamperehacklab.tunk.org:38001/nphMotionJpeg?Resolution=640x480&Quality=Clarity
