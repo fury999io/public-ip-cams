@@ -34,11 +34,10 @@
 * http://80.245.224.153/control/userimage.html
 * http://89.97.231.70:8083/control/userimage.html
 * http://213.5.145.4/control/userimage.html
-* 
 * http://162.191.186.59:81/control/userimage.html
 * http://61.115.78.205/control/userimage.html
 * http://194.106.254.98:1080/control/userimage.html
-* http://hof-verlo.selfhost.bz/control/userimage.html
+* 
 * http://204.13.105.114:8082/axis-cgi/mjpg/video.cgi
 * http://83.48.75.113:8320/axis-cgi/mjpg/video.cgi
 * http://77.110.245.165/axis-cgi/mjpg/video.cgi
