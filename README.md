@@ -21,7 +21,7 @@
 * http://98.101.247.131:8080/axis-cgi/mjpg/video.cgi
 * http://79.161.6.126:9092/axis-cgi/mjpg/video.cgi
 * http://128.255.86.21/axis-cgi/mjpg/video.cgi
-* 142.0.109.159/axis-cgi/mjpg/video.cgi
+* http://142.0.109.159/axis-cgi/mjpg/video.cgi
 * http://46.19.234.136/axis-cgi/mjpg/video.cgi
 * http://80.254.191.189:8008/axis-cgi/mjpg/video.cgi
 * http://212.231.225.55:88/axis-cgi/mjpg/video.cgi
