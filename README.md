@@ -10,6 +10,35 @@
 
 
 * http://80.75.112.38:9080/axis-cgi/mjpg/video.cgi
+* http://91.214.62.226/control/userimage.html
+* http://63.41.44.111:81/control/userimage.html
+* http://82.69.86.56/control/faststream.jpg
+* http://166.153.247.80:82/control/userimage.html
+* http://66.186.229.166:3000/control/userimage.html
+* http://107.84.202.41:9501/control/userimage.html
+* http://202.239.224.34/control/userimage.html
+* http://31.193.25.62:10002/control/userimage.html
+* http://194.94.76.134/control/userimage.html
+* http://31.207.113.22:50001/control/userimage.html
+* http://143.93.83.83/control/userimage.html
+* http://212.68.79.188/control/userimage.html
+* http://205.207.202.61:85/control/userimage.html
+* http://84.196.123.133:4433/control/userimage.html
+* http://194.116.8.136:82/control/userimage.html
+* http://77.60.226.189:8012/control/userimage.html
+* http://166.168.112.141:82/control/userimage.html
+* http://82.77.203.219:8080/control/userimage.html
+* http://live-hornissen.dyndns.org:81/control/userimage.html
+* http://85.8.92.1/control/userimage.html
+* http://63.41.44.105:81/control/userimage.html
+* http://80.245.224.153/control/userimage.html
+* http://89.97.231.70:8083/control/userimage.html
+* http://213.5.145.4/control/userimage.html
+* 
+* http://162.191.186.59:81/control/userimage.html
+* http://61.115.78.205/control/userimage.html
+* http://194.106.254.98:1080/control/userimage.html
+* http://hof-verlo.selfhost.bz/control/userimage.html
 * http://204.13.105.114:8082/axis-cgi/mjpg/video.cgi
 * http://83.48.75.113:8320/axis-cgi/mjpg/video.cgi
 * http://77.110.245.165/axis-cgi/mjpg/video.cgi
@@ -257,6 +286,10 @@
 * http://htadmcam01.larimer.org/mjpg/video.mjpg
 * http://camera6.city.satsumasendai.lg.jp/-wvhttp-01-/image.cgi
 * http://kamera.mikulov.cz:8888/mjpg/video.mjpg
+* http://yukijinjya.st.wakwak.ne.jp/control/userimage.html
+* https://camsuior3.npoint.ro/control/userimage.html
+* http://ferienpenthouse34.spdns.de:4601/control/userimage.html
+* 
 * https://csea-me-webcam.cse.umn.edu/mjpg/video.mjpg
 * http://vetter.viewnetcam.com:50000/nphMotionJpeg?Resolution=640x480&Quality=Clarity
 * http://tamperehacklab.tunk.org:38001/nphMotionJpeg?Resolution=640x480&Quality=Clarity
