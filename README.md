@@ -15,6 +15,7 @@
 * http://5.172.188.145:9995/axis-cgi/mjpg/video.cgi
 * http://71.43.10.26:9080/axis-cgi/mjpg/video.cgi
 * http://96.91.239.26:1024/axis-cgi/mjpg/video.cgi
+* http://218.219.195.24/nphMotionJpeg?Resolution=640x480
 * http://80.254.191.189:8008/axis-cgi/mjpg/video.cgi
 * http://85.196.146.82:3337/axis-cgi/mjpg/video.cgi
 * http://185.74.192.88:85/axis-cgi/mjpg/video.cgi
@@ -27,6 +28,11 @@
 * http://213.3.30.80:6001/axis-cgi/mjpg/video.cgi
 * http://194.103.218.16/axis-cgi/mjpg/video.cgi
 * https://128.255.86.21/axis-cgi/mjpg/video.cgi
+* http://221.189.116.218:60001/nphMotionJpeg?Resolution=640x480
+* http://218.219.214.248:50000/nphMotionJpeg?Resolution=640x480
+* http://220.157.230.36/nphMotionJpeg?Resolution=640x480
+* http://118.21.111.254:65000/nphMotionJpeg?Resolution=640x480
+* http://38.79.156.188/CgiStart/nphMotionJpeg?Resolution=640x480
 * http://213.123.122.163:1087/axis-cgi/mjpg/video.cgi
 * http://98.101.223.10:8207/axis-cgi/mjpg/video.cgi
 * http://80.28.111.68:82/axis-cgi/mjpg/video.cgi
@@ -279,6 +285,7 @@
 * http://minigolf-paderborn.spdns.de:86/axis-cgi/mjpg/video.cgi
 * https://camera.strandafjellet.no:8441/axis-cgi/mjpg/video.cgi
 * http://museumhallevik2.ddns.net:9501/axis-cgi/mjpg/video.cgi
+* http://yakumo-fishing-circle.aa0.netvolante.jp/nphMotionJpeg?Resolution=640x480
 * https://webcam.vliegveldzeeland.nl:7171/axis-cgi/mjpg/video.cgi
 * http://chalet-chuenis.internet-box.ch/axis-cgi/mjpg/video.cgi
 * https://pavwebcam.warrnambool.vic.gov.au/axis-cgi/mjpg/video.cgi
@@ -287,9 +294,12 @@
 * http://cam2.aub.edu.lb/axis-cgi/mjpg/video.cgi
 * http://webcam-dahab.harry-nass.com/axis-cgi/mjpg/video.cgi
 * http://cam-mckeldin-eastview.umd.edu/axis-cgi/mjpg/video.cgi
+* http://shimamaki-camera.aa0.netvolante.jp:8001/nphMotionJpeg?Resolution=320x240
 * http://barbadillodeherreros.dyndns.org:9001/axis-cgi/mjpg/video.cgi
 * https://webcam.duntondestinations.com/axis-cgi/mjpg/video.cgi
 * http://klosterplatz.selfip.info/axis-cgi/mjpg/video.cgi
+* http://webcam.fairharbormarina.com/nphMotionJpeg?Resolution=640x480
+* http://cam0819917993.ddns.komatsuelec.co.jp/nphMotionJpeg?Resolution=640x480&Quality=Clarity
 * http://x3hgy587adhfql.selfhost.eu:8080/axis-cgi/mjpg/video.cgi?resolution=4CIF&camera=4
 * http://x3hgy587adhfql.selfhost.eu:8080/axis-cgi/mjpg/video.cgi?resolution=4CIF&camera=3
 * http://x3hgy587adhfql.selfhost.eu:8080/axis-cgi/mjpg/video.cgi?resolution=4CIF&camera=2
